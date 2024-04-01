@@ -4,14 +4,14 @@ This project is a General Store Management System implemented in C++. It allows 
 
 ## Features
 Admin Functionality:
-  Add new products to the store inventory.
+  Add new products to the store inventory.<br/>
   ![image](https://github.com/gpunit2417/General-Store-Management-System/assets/118668663/e8507bb8-f1d6-405e-8968-3d1b948e324b)
 
 User Functionality:
-  View available products.
+  View available products.<br/>
   ![image](https://github.com/gpunit2417/General-Store-Management-System/assets/118668663/5f5595a1-a9b0-4a57-82b6-4634de8db7b7)
 
-  Purchase products from the store.
+  Purchase products from the store.<br/>
   ![image](https://github.com/gpunit2417/General-Store-Management-System/assets/118668663/6dddc3da-1056-4395-adfb-1c181c7dd3f1)
 
 
