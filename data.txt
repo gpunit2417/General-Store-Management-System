@@ -1,3 +1,3 @@
-101	lays	23	50
-102	kurkure	17	50
-103	pepsi	20	40
+101	lays	21	50
+102	kurkure	15	50
+103	pepsi	18	40
